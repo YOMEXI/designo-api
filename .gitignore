@@ -1,0 +1,6 @@
+node_modules
+.config.env
+config.env
+
+//git push heroku HEAD:master
+heroku repo:reset -a appname
